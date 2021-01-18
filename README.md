@@ -10,6 +10,6 @@ This application helps the restaurants to do all functionalities more accurately
 6. Helps Admin (manager) to control each part of the restaurant. 
 
 Processes can be reviewed by internal and external audits:
-Processes for managing a restaurant: This refers to the top management role in this system. This process part resides in the hands of the owner of the restaurant. Being the owner, the main objective is to determine the policy, goals and objectives.
-Processes for managing resources: Being the restaurant owner, this is another job to keep track of. By providing all the required resources to the restaurant.
-Processes for ordering: This process exists to get the order details from the customer.
+1. Processes for managing a restaurant: This refers to the top management role in this system. This process part resides in the hands of the admin (owner) of the restaurant. Being the admin (owner), the main objective is to determine the policy, goals and objectives.
+2. Processes for managing resources: Being the restaurant admin (owner), this is another job to keep track of. By providing all the required resources to the restaurant.
+3. Processes for ordering: This process exists to get the order details from the customer.
